@@ -1,0 +1,1624 @@
+src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
+63
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401081809148906.pdf: >शासन निर्णय क्रमांक< >बदली-२३२४/प्र.क्र.१८/ना.पु.१५<
+	elapsed_time:202401081809148906.pdf: 0.000120
+  exec_task: doc_translator_hf 
+    Paras: #38 Sentences: #0
+	[0]  #words: 258 #sentences: 39
+	After generate: 3 MB
+	[1]  #words: 84 #sentences: 7
+	After generate: 3 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+	Tesseract on page: 4
+	Tesseract on page: 5
+  exec_task: pdftable_finder 
+	==Total:407 Errors=407 TableEmptyBodyCellError=407
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401121930165906.pdf: >शासन परिपत्रक क्रमांक< >अधापु-२०२४/प्र.क्र.३/ना.पु.२२<
+	elapsed_time:202401121930165906.pdf: 0.000091
+  exec_task: doc_translator_hf 
+    Paras: #88 Sentences: #0
+	[0]  #words: 266 #sentences: 54
+	After generate: 3 MB
+	[1]  #words: 261 #sentences: 25
+	After generate: 3 MB
+	[2]  #words: 259 #sentences: 22
+	After generate: 3 MB
+	[3]  #words: 48 #sentences: 4
+	After generate: 3 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251250548106.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251250548106.pdf: 0.000090
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 25 #sentences: 9
+	After generate: 3 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 3 MB
+	[1]  #words: 258 #sentences: 27
+	After generate: 3 MB
+	[2]  #words: 267 #sentences: 21
+	After generate: 3 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 3 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251254305906.pdf: >शासन निर्णय क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251254305906.pdf: 0.000099
+  exec_task: doc_translator_hf 
+    Paras: #80 Sentences: #10
+	[0]  #words: 27 #sentences: 9
+	After generate: 3 MB
+	[0]  #words: 261 #sentences: 51
+	After generate: 3 MB
+	[1]  #words: 260 #sentences: 26
+	After generate: 3 MB
+	[2]  #words: 266 #sentences: 21
+	After generate: 3 MB
+	[3]  #words: 85 #sentences: 5
+	After generate: 3 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251257101206.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251257101206.pdf: 0.000114
+  exec_task: doc_translator_hf 
+    Paras: #80 Sentences: #10
+	[0]  #words: 27 #sentences: 9
+	After generate: 3 MB
+	[0]  #words: 261 #sentences: 51
+	After generate: 3 MB
+	[1]  #words: 260 #sentences: 26
+	After generate: 3 MB
+	[2]  #words: 266 #sentences: 21
+	After generate: 3 MB
+	[3]  #words: 85 #sentences: 5
+	After generate: 3 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251259112706.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251259112706.pdf: 0.000086
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 27 #sentences: 9
+	After generate: 3 MB
+	[0]  #words: 259 #sentences: 52
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 26
+	After generate: 4 MB
+	[2]  #words: 267 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 89 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251259481906.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251259481906.pdf: 0.000109
+  exec_task: doc_translator_hf 
+    Paras: #75 Sentences: #10
+	[0]  #words: 28 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 259 #sentences: 49
+	After generate: 4 MB
+	[1]  #words: 262 #sentences: 25
+	After generate: 4 MB
+	[2]  #words: 257 #sentences: 20
+	After generate: 4 MB
+	[3]  #words: 94 #sentences: 4
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251302517406.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251302517406.pdf: 0.000112
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound nirmalaui 231
+cmap NotFound nirmalaui 265
+cmap NotFound nirmalaui 312
+cmap NotFound nirmalaui 282
+cmap NotFound nirmalaui 231
+cmap NotFound nirmalaui 265
+cmap NotFound nirmalaui 312
+cmap NotFound nirmalaui 282
+cmap NotFound nirmalaui 231
+cmap NotFound nirmalaui 265
+cmap NotFound nirmalaui 312
+cmap NotFound nirmalaui 282
+cmap NotFound nirmalaui 231
+cmap NotFound nirmalaui 265
+cmap NotFound nirmalaui 312
+cmap NotFound nirmalaui 282
+cmap NotFound nirmalaui 231
+cmap NotFound nirmalaui 265
+cmap NotFound nirmalaui 312
+cmap NotFound nirmalaui 282
+cmap NotFound nirmalaui 231
+cmap NotFound nirmalaui 265
+cmap NotFound nirmalaui 312
+cmap NotFound nirmalaui 282
+  exec_task: word_recognizer 
+	Replaced 1:1 >(nirmalaui-cid:231)(nirmalaui-cid:265)(nirmalaui-cid:312)(nirmalaui-cid:282)<  >आदश<
+	Replaced 2:1 >(nirmalaui-cid:231)(nirmalaui-cid:265)(nirmalaui-cid:312)(nirmalaui-cid:282)<  >आदश<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251303309006.pdf: >शासन आदश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251303309006.pdf: 0.000129
+  exec_task: doc_translator_hf 
+    Paras: #80 Sentences: #10
+	[0]  #words: 27 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 261 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 260 #sentences: 26
+	After generate: 4 MB
+	[2]  #words: 266 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 85 #sentences: 5
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251306370706.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251306370706.pdf: 0.000080
+  exec_task: doc_translator_hf 
+    Paras: #80 Sentences: #10
+	[0]  #words: 27 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 261 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 260 #sentences: 26
+	After generate: 4 MB
+	[2]  #words: 266 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 85 #sentences: 5
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251309065406.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251309065406.pdf: 0.000133
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251309187406.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251309187406.pdf: 0.000089
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 27 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251311109006.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251311109006.pdf: 0.000092
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251312445206.pdf: >शासन निर्णय क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251312445206.pdf: 0.000106
+  exec_task: doc_translator_hf 
+    Paras: #80 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 261 #sentences: 52
+	After generate: 4 MB
+	[1]  #words: 258 #sentences: 26
+	After generate: 4 MB
+	[2]  #words: 264 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 89 #sentences: 5
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251313112706.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251313112706.pdf: 0.000107
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251315057006.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251315057006.pdf: 0.000120
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251315290106.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251315290106.pdf: 0.000078
+  exec_task: doc_translator_hf 
+    Paras: #80 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 261 #sentences: 52
+	After generate: 4 MB
+	[1]  #words: 258 #sentences: 26
+	After generate: 4 MB
+	[2]  #words: 264 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 89 #sentences: 5
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251316484106.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251316484106.pdf: 0.000106
+  exec_task: doc_translator_hf 
+    Paras: #80 Sentences: #10
+	[0]  #words: 29 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 261 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 260 #sentences: 26
+	After generate: 4 MB
+	[2]  #words: 266 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 85 #sentences: 5
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251318344206.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251318344206.pdf: 0.000117
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251318393606.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251318393606.pdf: 0.000101
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251320433806.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251320433806.pdf: 0.000150
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 25 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251321463806.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251321463806.pdf: 0.000114
+  exec_task: doc_translator_hf 
+    Paras: #80 Sentences: #10
+	[0]  #words: 29 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 261 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 260 #sentences: 26
+	After generate: 4 MB
+	[2]  #words: 266 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 85 #sentences: 5
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251322586506.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251322586506.pdf: 0.000129
+  exec_task: doc_translator_hf 
+    Paras: #80 Sentences: #10
+	[0]  #words: 36 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 265 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 267 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 83 #sentences: 4
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251324263606.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251324263606.pdf: 0.000110
+  exec_task: doc_translator_hf 
+    Paras: #80 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 261 #sentences: 52
+	After generate: 4 MB
+	[1]  #words: 258 #sentences: 26
+	After generate: 4 MB
+	[2]  #words: 264 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 89 #sentences: 5
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251324596606.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251324596606.pdf: 0.000103
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 25 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251326513306.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251326513306.pdf: 0.000084
+  exec_task: doc_translator_hf 
+    Paras: #80 Sentences: #10
+	[0]  #words: 27 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 261 #sentences: 52
+	After generate: 4 MB
+	[1]  #words: 258 #sentences: 26
+	After generate: 4 MB
+	[2]  #words: 264 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 89 #sentences: 5
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251326529706.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251326529706.pdf: 0.000134
+  exec_task: doc_translator_hf 
+    Paras: #81 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 264 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 266 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 85 #sentences: 5
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251329582806.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251329582806.pdf: 0.000111
+  exec_task: doc_translator_hf 
+    Paras: #80 Sentences: #10
+	[0]  #words: 30 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 259 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 260 #sentences: 26
+	After generate: 4 MB
+	[2]  #words: 265 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 88 #sentences: 5
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251332343606.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251332343606.pdf: 0.000109
+  exec_task: doc_translator_hf 
+    Paras: #80 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 261 #sentences: 52
+	After generate: 4 MB
+	[1]  #words: 258 #sentences: 26
+	After generate: 4 MB
+	[2]  #words: 264 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 89 #sentences: 5
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251334291806.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251334291806.pdf: 0.000138
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 25 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251334515906.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251334515906.pdf: 0.000110
+  exec_task: doc_translator_hf 
+    Paras: #80 Sentences: #10
+	[0]  #words: 29 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 261 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 260 #sentences: 26
+	After generate: 4 MB
+	[2]  #words: 266 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 85 #sentences: 5
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251336247106.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251336247106.pdf: 0.000132
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251337331506.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251337331506.pdf: 0.000118
+  exec_task: doc_translator_hf 
+    Paras: #80 Sentences: #10
+	[0]  #words: 29 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 261 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 260 #sentences: 26
+	After generate: 4 MB
+	[2]  #words: 266 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 85 #sentences: 5
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:224 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251338464106.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251338464106.pdf: 0.000128
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251339525806.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251339525806.pdf: 0.000108
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251340418806.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251340418806.pdf: 0.000130
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251342131706.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251342131706.pdf: 0.000100
+  exec_task: doc_translator_hf 
+    Paras: #80 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 261 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 260 #sentences: 26
+	After generate: 4 MB
+	[2]  #words: 266 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 85 #sentences: 5
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251343537506.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251343537506.pdf: 0.000110
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251345097206.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251345097206.pdf: 0.000119
+  exec_task: doc_translator_hf 
+    Paras: #77 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 260 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 265 #sentences: 26
+	After generate: 4 MB
+	[2]  #words: 275 #sentences: 20
+	After generate: 4 MB
+	[3]  #words: 72 #sentences: 3
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251345583106.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251345583106.pdf: 0.000126
+  exec_task: doc_translator_hf 
+    Paras: #80 Sentences: #10
+	[0]  #words: 27 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 261 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 260 #sentences: 26
+	After generate: 4 MB
+	[2]  #words: 266 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 85 #sentences: 5
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251347326306.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251347326306.pdf: 0.000109
+  exec_task: doc_translator_hf 
+    Paras: #80 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 261 #sentences: 52
+	After generate: 4 MB
+	[1]  #words: 258 #sentences: 26
+	After generate: 4 MB
+	[2]  #words: 264 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 89 #sentences: 5
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251348006506.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251348006506.pdf: 0.000108
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251350015406.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251350015406.pdf: 0.000094
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 27 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251350333506.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251350333506.pdf: 0.000079
+  exec_task: doc_translator_hf 
+    Paras: #83 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 258 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 102 #sentences: 7
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251351511906.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251351511906.pdf: 0.000112
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251353028306.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251353028306.pdf: 0.000086
+  exec_task: doc_translator_hf 
+    Paras: #79 Sentences: #10
+	[0]  #words: 31 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 264 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 267 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 84 #sentences: 4
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251353356006.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251353356006.pdf: 0.000108
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251355313206.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251355313206.pdf: 0.000105
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 26 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251355410606.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251355410606.pdf: 0.000096
+  exec_task: doc_translator_hf 
+    Paras: #80 Sentences: #10
+	[0]  #words: 27 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 261 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 260 #sentences: 26
+	After generate: 4 MB
+	[2]  #words: 266 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 85 #sentences: 5
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+cmap NotFound kokila 94
+cmap NotFound kokila 107
+  exec_task: word_recognizer 
+	Replaced 1:225 >(kokila-cid:94)(kokila-cid:107)<  >या<
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251358226806.pdf: >शासन निर्णय क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251358226806.pdf: 0.000105
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 27 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202401251359157806.pdf: >शासन आदेश क्रमांक< >पदोन्न-२०२३/प्र.क्र.२०४/ना.पु.१५<
+	elapsed_time:202401251359157806.pdf: 0.000081
+  exec_task: doc_translator_hf 
+    Paras: #82 Sentences: #10
+	[0]  #words: 27 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 257 #sentences: 51
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 27
+	After generate: 4 MB
+	[2]  #words: 268 #sentences: 21
+	After generate: 4 MB
+	[3]  #words: 90 #sentences: 6
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202402021507536106.pdf: >शासन निर्णय क्रमांक< >वाहन-२०२३/प्र.क्र.१९७/ना.पु.-१५<
+	elapsed_time:202402021507536106.pdf: 0.000098
+  exec_task: doc_translator_hf 
+    Paras: #58 Sentences: #0
+	[0]  #words: 261 #sentences: 52
+	After generate: 4 MB
+	[1]  #words: 264 #sentences: 22
+	After generate: 4 MB
+	[2]  #words: 183 #sentences: 11
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:3 Errors=3 TableEmptyBodyCellError=3
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202402071229392606.pdf: >शासन निर्णय क्रमांक< >ग्रासंजा-२०२३/प्र.क्र.५१/ग्रासं-४<
+	elapsed_time:202402071229392606.pdf: 0.000092
+  exec_task: doc_translator_hf 
+    Paras: #85 Sentences: #10
+	[0]  #words: 38 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 262 #sentences: 60
+	After generate: 4 MB
+	[1]  #words: 266 #sentences: 30
+	After generate: 4 MB
+	[2]  #words: 200 #sentences: 18
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+cmap NotFound couriernew 11
+cmap NotFound couriernew 11
+cmap NotFound couriernew 11
+  exec_task: word_recognizer 
+	Tesseract on page: 0
+	Tesseract on page: 1
+  exec_task: pdftable_finder 
+	==Total:2 Errors=2 TableEmptyBodyCellError=2
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202402091425408006.pdf: >शासन निर्णय क्रमांक< >रॉकेल-२०१९/प्र.क्र.१३७/नापु-२७<
+	elapsed_time:202402091425408006.pdf: 0.000111
+  exec_task: doc_translator_hf 
+    Paras: #85 Sentences: #7
+	[0]  #words: 18 #sentences: 7
+	After generate: 4 MB
+	[0]  #words: 259 #sentences: 67
+	After generate: 13 MB
+	[1]  #words: 264 #sentences: 31
+	After generate: 13 MB
+	[2]  #words: 263 #sentences: 23
+	After generate: 13 MB
+	[3]  #words: 136 #sentences: 9
+	After generate: 13 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202402261715213406.pdf: >शासन निर्णय, क्र.< >बोनस-२६२३/प्र.क्र.२३२/नापु २९<
+	elapsed_time:202402261715213406.pdf: 0.000098
+  exec_task: doc_translator_hf 
+    Paras: #87 Sentences: #0
+	[0]  #words: 264 #sentences: 59
+	After generate: 13 MB
+	[1]  #words: 260 #sentences: 23
+	After generate: 13 MB
+	[2]  #words: 260 #sentences: 22
+	After generate: 13 MB
+	[3]  #words: 26 #sentences: 2
+	After generate: 13 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202402271314406206.pdf: >शासन निर्णय क्रमांक< >प्रतिनि-२४२४/प्र.क्र. ८२ (१)/ना.पु.१५<
+	elapsed_time:202402271314406206.pdf: 0.000093
+  exec_task: doc_translator_hf 
+    Paras: #53 Sentences: #0
+	[0]  #words: 266 #sentences: 44
+	After generate: 13 MB
+	[1]  #words: 270 #sentences: 20
+	After generate: 13 MB
+	[2]  #words: 42 #sentences: 2
+	After generate: 13 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202402271318276706.pdf: >शासन निर्णय क्रमांक< >प्रतिनि-२४२४/प्र.क्र.८२ (२)/ना.पु.१५<
+	elapsed_time:202402271318276706.pdf: 0.000094
+  exec_task: doc_translator_hf 
+    Paras: #49 Sentences: #0
+	[0]  #words: 266 #sentences: 43
+	After generate: 13 MB
+	[1]  #words: 283 #sentences: 18
+	After generate: 13 MB
+	[2]  #words: 32 #sentences: 1
+	After generate: 13 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202402271318564006.pdf: >शासन आदेश क्रमांक< >प्रतिनि-२४२४/प्र.क्र.८२ (३)/ना.पु.१५<
+	elapsed_time:202402271318564006.pdf: 0.000093
+  exec_task: doc_translator_hf 
+    Paras: #51 Sentences: #0
+	[0]  #words: 261 #sentences: 43
+	After generate: 13 MB
+	[1]  #words: 267 #sentences: 19
+	After generate: 13 MB
+	[2]  #words: 62 #sentences: 2
+	After generate: 13 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202402271525512306.pdf: >शासन आदेश क्रमांक< >बदली-२३२३/प्र.क्र. २४५/ना.पु.१५.<
+	elapsed_time:202402271525512306.pdf: 0.000087
+  exec_task: doc_translator_hf 
+    Paras: #38 Sentences: #16
+	[0]  #words: 37 #sentences: 10
+	After generate: 13 MB
+	[0]  #words: 261 #sentences: 34
+	After generate: 13 MB
+	[1]  #words: 79 #sentences: 6
+	After generate: 13 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202402271711132506.pdf: >शासन निर्णय क्रमांक< >ग्रासंअ २०२३/प्र.क्र.४२/ग्रासं-४<
+	elapsed_time:202402271711132506.pdf: 0.000096
+  exec_task: doc_translator_hf 
+    Paras: #32 Sentences: #12
+	[0]  #words: 24 #sentences: 7
+	After generate: 13 MB
+	[0]  #words: 262 #sentences: 35
+	After generate: 13 MB
+	[1]  #words: 10 #sentences: 1
+	After generate: 13 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202402271756254306.pdf: >शासन निर्णय क्रमांक< >संकीर्ण-२०२३/प्र.क्र.५०/सं.क.<
+	elapsed_time:202402271756254306.pdf: 0.000093
+  exec_task: doc_translator_hf 
+    Paras: #58 Sentences: #0
+	[0]  #words: 257 #sentences: 52
+	After generate: 13 MB
+	[1]  #words: 255 #sentences: 24
+	After generate: 13 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202402291856571006.pdf: >शासन निर्णय क्रमांक< >खरेदी-२०२४/प्र.क्र.०२/नोंदणी शाखा<
+	elapsed_time:202402291856571006.pdf: 0.000130
+  exec_task: doc_translator_hf 
+    Paras: #53 Sentences: #33
+	[0]  #words: 108 #sentences: 22
+	After generate: 13 MB
+	[0]  #words: 257 #sentences: 45
+	After generate: 13 MB
+	[1]  #words: 181 #sentences: 17
+	After generate: 13 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202403011741265006.pdf: >शासन निर्णय क्रमांक< >वैदेप्र-३३२१/प्र.क्र. ०१/ना.पु.१५<
+	elapsed_time:202403011741265006.pdf: 0.000103
+  exec_task: doc_translator_hf 
+    Paras: #53 Sentences: #18
+	[0]  #words: 115 #sentences: 15
+	After generate: 13 MB
+	[0]  #words: 269 #sentences: 43
+	After generate: 13 MB
+	[1]  #words: 166 #sentences: 14
+	After generate: 13 MB
+  exec_task: text_writer 
+#docs: 63 #processed: 63
