@@ -1,27 +1,3 @@
 src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
 64
-  exec_task: pdf_cid_info 
-  exec_task: pdf_cid_reader 
-	202403071851153506.pdf missing_cmaps: nirmalaui
-  exec_task: word_recognizer 
-	Replaced 2:130 >(nirmalaui-cid:862)(nirmalaui-cid:285)(nirmalaui-cid:265)(nirmalaui-cid:275)(nirmalaui-cid:366)(nirmalaui-cid:721)(nirmalaui-cid:301)(nirmalaui-cid:281)(nirmalaui-cid:301)(nirmalaui-cid:285)(nirmalaui-cid:230)(nirmalaui-cid:267)(nirmalaui-cid:317)(nirmalaui-cid:269)(nirmalaui-cid:253)(nirmalaui-cid:301)(nirmalaui-cid:275)(nirmalaui-cid:305)(nirmalaui-cid:248)(nirmalaui-cid:285)(nirmalaui-cid:323)(nirmalaui-cid:265)(nirmalaui-cid:272)(nirmalaui-cid:330)(nirmalaui-cid:354)(nirmalaui-cid:302)(nirmalaui-cid:281)(nirmalaui-cid:517)<  >७. सदर प्रसावास अनापचाराक सदरभ क्र.८७/व्यय-१०,|द.२२ फब्रवारा, २०२४ अन्वये 'व्त्त<
-	Replaced 2:136 >(nirmalaui-cid:302)(nirmalaui-cid:281)(nirmalaui-cid:272)(nirmalaui-cid:301)(nirmalaui-cid:250)(nirmalaui-cid:301)(nirmalaui-cid:267)(nirmalaui-cid:312)(nirmalaui-cid:273)(nirmalaui-cid:301)(nirmalaui-cid:586)(nirmalaui-cid:263)(nirmalaui-cid:301)(nirmalaui-cid:302)(nirmalaui-cid:265)(nirmalaui-cid:278)(nirmalaui-cid:312)(nirmalaui-cid:278)(nirmalaui-cid:305)(nirmalaui-cid:231)(nirmalaui-cid:286)(nirmalaui-cid:312)<  >[वभागार्न मान्यता |दलला आह<
-  exec_task: pdftable_finder 
-	==Total:0 Errors=0 
-  exec_task: line_finder 
-  exec_task: para_finder 
-  exec_task: extract_order_number 
-	extract_order_number:202403071851153506.pdf: >शासन निर्णय क्रमांक< >सामुग्री-४५२३/प्र.क्र. १६५/ना.पु.१६-ब<
-	elapsed_time:202403071851153506.pdf: 0.000086
-  exec_task: doc_translator_hf 
-    Paras: #79 Sentences: #0
-	[0]  #words: 259 #sentences: 62
-	After generate: 3 MB
-	[1]  #words: 264 #sentences: 29
-	After generate: 3 MB
-	[2]  #words: 265 #sentences: 23
-	After generate: 3 MB
-	[3]  #words: 45 #sentences: 3
-	After generate: 3 MB
-  exec_task: text_writer 
-#docs: 64 #processed: 1
+#docs: 64 #processed: 0
