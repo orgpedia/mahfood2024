@@ -1,3 +1,101 @@
 src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
-64
-#docs: 64 #processed: 0
+69
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202403111251023506.pdf: >शासन आदेश क्रमांक< >प्रतिनि-२४२४/प्र.क्र.८२ (४)/ना.पु.१५<
+	elapsed_time:202403111251023506.pdf: 0.000089
+  exec_task: doc_translator_hf 
+    Paras: #46 Sentences: #0
+	[0]  #words: 262 #sentences: 41
+	After generate: 4 MB
+	[1]  #words: 257 #sentences: 15
+	After generate: 4 MB
+	[2]  #words: 70 #sentences: 3
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	**FirstPage: 12: अतिका-३१२३/प्र.क्र.८३/ना.पु.१५ ==शासन आदेश क्रमांक : अतिका-३१२३/प्र.क्र.८३/ना.पु.१५
+	extract_order_number:202403111254567506.pdf: >शासन आदेश क्रमांक< >अतिका-३१२३/प्र.क्र.८३/ना.पु.१५<
+	elapsed_time:202403111254567506.pdf: 0.000985
+  exec_task: doc_translator_hf 
+    Paras: #26 Sentences: #0
+	[0]  #words: 261 #sentences: 36
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+  exec_task: word_recognizer 
+  exec_task: pdftable_finder 
+	==Total:0 Errors=0 
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202403111258377906.pdf: >शासन आदेश क्रमांक< >अतिका-३१२३/प्र.क्र.८४/ना.पु.१५<
+	elapsed_time:202403111258377906.pdf: 0.000074
+  exec_task: doc_translator_hf 
+    Paras: #41 Sentences: #0
+	[0]  #words: 262 #sentences: 45
+	After generate: 4 MB
+	[1]  #words: 120 #sentences: 10
+	After generate: 4 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+	202403111705308406.pdf missing_cmaps: nirmalaui
+  exec_task: word_recognizer 
+	Replaced 0:70 >F.No.१(१३)PFMS/FCD/२०२०(nirmalaui-cid:126)<  >F.No.1(13)PFMS/FCD/2020,<
+	Tesseract on page: 1
+  exec_task: pdftable_finder 
+	==Total:1 Errors=1 TableEmptyBodyCellError=1
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202403111705308406.pdf: >शासन निर्णय क्रमांक< >संकीर्ण-२०२३/प्र.क.५०/सं.क.<
+	elapsed_time:202403111705308406.pdf: 0.000082
+  exec_task: doc_translator_hf 
+    Paras: #49 Sentences: #9
+	[0]  #words: 97 #sentences: 9
+	After generate: 4 MB
+	[0]  #words: 264 #sentences: 57
+	After generate: 12 MB
+	[1]  #words: 280 #sentences: 21
+	After generate: 12 MB
+  exec_task: text_writer 
+  exec_task: pdf_cid_info 
+  exec_task: pdf_cid_reader 
+	202403111708209006.pdf missing_cmaps: nirmalaui
+  exec_task: word_recognizer 
+	Tesseract on page: 0
+	Tesseract on page: 1
+  exec_task: pdftable_finder 
+	==Total:13 Errors=13 TableEmptyBodyCellError=13
+  exec_task: line_finder 
+  exec_task: para_finder 
+  exec_task: extract_order_number 
+	extract_order_number:202403111708209006.pdf: >शासन निर्णय क्रमांक< >संकीर्ण-२०२२/प्र.क्र.६५/संगणक कक्ष<
+	elapsed_time:202403111708209006.pdf: 0.000092
+  exec_task: doc_translator_hf 
+    Paras: #50 Sentences: #3
+	[0]  #words: 16 #sentences: 3
+	After generate: 12 MB
+	[0]  #words: 265 #sentences: 66
+	After generate: 13 MB
+	[1]  #words: 271 #sentences: 25
+	After generate: 13 MB
+	[2]  #words: 85 #sentences: 4
+	After generate: 13 MB
+  exec_task: text_writer 
+#docs: 69 #processed: 5
