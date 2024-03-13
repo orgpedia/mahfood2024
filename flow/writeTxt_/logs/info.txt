@@ -1,22 +1,3 @@
 src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
 70
-  exec_task: pdf_cid_info 
-  exec_task: pdf_cid_reader 
-  exec_task: word_recognizer 
-  exec_task: pdftable_finder 
-	==Total:7 Errors=7 TableEmptyBodyCellError=7
-  exec_task: line_finder 
-  exec_task: para_finder 
-  exec_task: extract_order_number 
-	extract_order_number:202403121312161006.pdf: >शासन निर्णय क्रमांक< >वैमाशा-२०२४/प्र.क्र.१६/ग्रा.सं.-३<
-	elapsed_time:202403121312161006.pdf: 0.000093
-  exec_task: doc_translator_hf 
-    Paras: #35 Sentences: #26
-	[0]  #words: 46 #sentences: 19
-	After generate: 2 MB
-	[0]  #words: 262 #sentences: 40
-	After generate: 3 MB
-	[1]  #words: 52 #sentences: 4
-	After generate: 3 MB
-  exec_task: text_writer 
-#docs: 70 #processed: 1
+#docs: 70 #processed: 0
